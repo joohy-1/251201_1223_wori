@@ -1,5 +1,0 @@
-clock
-cup
-laptop
-dish
-tree
